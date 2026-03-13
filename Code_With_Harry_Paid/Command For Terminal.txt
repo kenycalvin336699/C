@@ -1,0 +1,16 @@
+creat Hello.c
+
+in terminal 
+
+gcc Hello.c
+
+it make program named a
+but if you run
+
+gcc hello.c -o Hello  
+
+-o can change name from a to name you write after -o
+
+For Execute run
+
+./Hello
